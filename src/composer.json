@@ -1,0 +1,11 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Album\\": "app"
+    }
+  },
+  "require": {
+    "twig/twig": "^3.0",
+    "ext-mysqli": "*"
+  }
+}
